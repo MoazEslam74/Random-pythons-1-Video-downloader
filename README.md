@@ -28,6 +28,8 @@ Before running this application, ensure you have the following installed:
     ```bash
     pip install yt-dlp
     ```
+    and read more about the library from [yt-dlp](https://github.com/yt-dlp/yt-dlp#dependencies)
+    
 *(Note: `tkinter`, `threading`, and `os` are part of the standard Python library and do not require separate installation).*
 
 ## 🚀 Usage
