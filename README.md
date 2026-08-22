@@ -1,4 +1,4 @@
-content = """#  Video Downloader 🎥⬇️
+<h1>Video Downloader 🎥⬇️</h1>
 
 A versatile, dual-language (English/Arabic) graphical desktop application that allows you to download YouTube videos and extract audio effortlessly. Built with Python, this tool utilizes the powerful `yt-dlp` backend and features a clean, responsive user interface made with `tkinter`.
 
@@ -48,8 +48,3 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 ## ⚠️ Disclaimer
 
 This tool is intended for personal use and educational purposes. Please respect the copyright of the content creators and abide by YouTube's Terms of Service when downloading content.
-"""
-
-with open('README.md', 'w', encoding='utf-8') as f:
-    f.write(content)
-print("File created successfully.")
