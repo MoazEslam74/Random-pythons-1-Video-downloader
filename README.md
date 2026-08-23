@@ -15,6 +15,7 @@ A versatile, dual-language (English/Arabic) graphical desktop application that a
 *   **Real-time Progress Tracking:** A visual progress bar showing the download percentage.
 *   **Non-blocking UI:** Built with threading to ensure the application remains responsive during downloads.
 
+*(Note: The application download videos from YouTube, Facebooak and Instagram only).*
 ## 🛠️ Prerequisites
 
 Before running this application, ensure you have the following installed:
