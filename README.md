@@ -4,7 +4,7 @@
 
 <h1>Video Downloader 🎥⬇️</h1>
 
-A versatile, dual-language (English/Arabic) graphical desktop application that allows you to download YouTube videos and extract audio effortlessly. Built with Python, this tool utilizes the powerful `yt-dlp` backend and features a clean, responsive user interface made with `tkinter`.
+A versatile, dual-language (English/Arabic) graphical desktop application that allows you to download videos and extract audio effortlessly. Built with Python, this tool utilizes the powerful `yt-dlp` backend and features a clean, responsive user interface made with `tkinter`.
 
 ## ✨ Features
 
@@ -53,4 +53,4 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 ## ⚠️ Disclaimer
 
-This tool is intended for personal use and educational purposes. Please respect the copyright of the content creators and abide by YouTube's Terms of Service when downloading content.
+This tool is intended for personal use and educational purposes. Please respect the copyright of the content creators and abide by social media's Terms of Service when downloading content.
