@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="RP_Video_downloader.ico" alt="Centered image" width="300">
+</p>
+
 <h1>Video Downloader 🎥⬇️</h1>
 
 A versatile, dual-language (English/Arabic) graphical desktop application that allows you to download YouTube videos and extract audio effortlessly. Built with Python, this tool utilizes the powerful `yt-dlp` backend and features a clean, responsive user interface made with `tkinter`.
