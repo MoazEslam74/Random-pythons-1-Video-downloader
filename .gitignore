@@ -1,0 +1,7 @@
+# ignore exported .exe
+*.exe
+
+# Extraction file
+build_exe.py
+/build
+*.spec

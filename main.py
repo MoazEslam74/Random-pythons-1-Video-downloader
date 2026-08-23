@@ -18,7 +18,7 @@ class VideoDownloaderApp:
         # Language dictionary
         self.texts = {
             'EN': {
-                'title': 'YouTube Video Downloader',
+                'title': 'Video Downloader',
                 'url_label': 'Enter the URL:',
                 'res_label': 'Choose Resolution:',
                 'save_label': 'Save to:',
